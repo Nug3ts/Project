@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@500;1000&display=swap');
+.logo{
+    color: rgb(0, 136, 255);
+    font-family: 'Nunito';
+    font-size: 30px;
+    font-weight: 1000;
+}
+.container{
+    width: 1024px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+ul{
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+ul li a{
+    color: rgb(102, 101, 101);
+    font-family: 'Nunito';
+    font-weight: 500;
+}
+.Cite2{
+    color: rgb(0, 136, 255);
+    font-family: 'Nunito';
+    font-size: 40px;
+    font-weight: 500;
+}
+main{
+    display: flex;
+    margin: auto;
+    text-align: left;
+    width: 1024px;
+    padding: 30px;
+}
+.Cite{
+    color: rgb(102, 101, 101);
+    font-family: 'Nunito';
+    font-weight: 500;
+    font-size: 20px;
+}
+.cage1{
+    width: 700px;
+    padding: 50px  0;
+}
+.button{
+    display: flex;
+    font-family: 'Nunito';
+    text-align: center;
+    margin: 10px;
+}
+.Resume{
+    color: #fff;
+    background-color:rgb(0, 136, 255);
+    height: 45px;
+    width: 100px;
+    border-radius: 10px;
+}
+.Projects{
+    color: rgb(0, 136, 255);
+    background-color:#fff;
+    height: 45px;
+    width: 100px;
+    border-radius: 10px;
+    border: #000 solid 1px;
+}
+footer{
+    background-color: #d4d4d4;
+    font-family: 'Nunito';
+    text-align: center;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    border-radius: 16px;
+    height: 150px;
+    padding: top;
+}
+.about_me{
+    font-size: 35px;
+    font-weight: 900;
+    color: #979797;
+}
+.f_info{
+    font-size: 16px;
+    color: #1e1e1e;
+}
+.f_info2{
+    font-size: 12px;
+    color: rgb(84, 84, 84);
+}
+img{
+    height: 250px;
+    width:200px ;
+    border-radius: 10px;
+}
+
